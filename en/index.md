@@ -25,3 +25,7 @@
 
 * Open any browser and enter this link https://<your username>.github.io/en/#!index.md
 
+
+[Click here to check the official docs](http://dynalon.github.io/mdwiki/#!tutorials/github.md)
+
+[Click here to check the Quickstart guide by MDwiki](http://dynalon.github.io/mdwiki/#!quickstart.md)
