@@ -8,7 +8,7 @@
 
 * Unzip the forked repository and find the ll_cc directory.
 
-* ll_cc (List of languages and country codes) : Duplicate this directory and rename it to ‘en’ to write the mardown in english. (en_us- English US, en-gb - British English).
+* ll_cc (List of languages and country codes) : Duplicate this directory and rename it to ‘en’ to create a markdown page in english. (en_us- English US, en-gb - British English).
 
 * Open the index.html file with a text editor and find where it says "Override ll_CC below with your default language and country code".
 
