@@ -5,11 +5,17 @@
 ### How to setup a public website using MDwiki and Github:
 
 * Fork off this repository from github https://github.com/exalted/mdwiki-seed.
+* Unzip the forked repository and find the ll_cc directory.
+* ll_cc (List of languages and country codes) : Duplicate this directory and rename it to ‘en’ to write the mardown in english. (en_us- English US, en-gb - British English).
+* Open the index.html file with a text editor and find where it says "Override ll_CC below with your default language and country code".
+* Change refresh meta tag from url=ll_CC/ to url=en/ (trailing / is very important)
 
 
 
 ## Section 2
+###Hosting on Github:
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+* Create a new repository on github and name the repository like this "<your username>.github.io".
+* Commit and push the files inside the forked repository.
+* Open any browser and enter this link https://<your username>.github.io/en/#!index.md
 
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
