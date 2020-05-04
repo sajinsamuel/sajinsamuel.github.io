@@ -4,6 +4,8 @@
 ## Section 1
 ### How to setup a public website using MDwiki and Github:
 
+[go here](pages/test.md)
+
 * Fork off this repository from github https://github.com/exalted/mdwiki-seed.
 
 * Unzip the forked repository and find the ll_cc directory.
