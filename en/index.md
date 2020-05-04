@@ -1,9 +1,11 @@
-# It works! ;-)
+# Getting Started with MDwiki
 
 
 ## Section 1
+### How to setup a public website using MDwiki and Github:
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+* Fork off this repository from github https://github.com/exalted/mdwiki-seed.
+
 
 
 ## Section 2
