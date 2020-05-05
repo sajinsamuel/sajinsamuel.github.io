@@ -4,7 +4,7 @@
 ## Section 1
 ### How to setup a public website using MDwiki and Github:
 
-[go here](pages/test.md)
+
 
 * Fork off this repository from github https://github.com/exalted/mdwiki-seed.
 
@@ -16,7 +16,6 @@
 
 * Change refresh meta tag from url=ll_CC/ to url=en/ (trailing / is very important)
 
-# hwy shrey
 
 ## Section 2
 ###Hosting on Github:
