@@ -20,11 +20,11 @@
 ## Section 2
 ### Hosting on Github:
 
-* Create a new repository on github and name the repository like this "<your username>.github.io".
+* Create a new repository on github and name the repository like this "<<your username>>.github.io".
 
 * Commit and push the files inside the forked repository.
 
-* Open any browser and enter this link https://<your username>.github.io/en/#!index.md
+* Open any browser and enter this link https://<<your username>>.github.io/en/#!index.md
 
 
 
