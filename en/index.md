@@ -18,7 +18,7 @@
 
 
 ## Section 2
-###Hosting on Github:
+### Hosting on Github:
 
 * Create a new repository on github and name the repository like this "<your username>.github.io".
 
